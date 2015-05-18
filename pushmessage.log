@@ -1,0 +1,14 @@
+window name "push_setup" already exists in parent
+window name "push_setup" already exists in parent
+    while executing
+"toplevel $w"
+    (procedure "do_push_anywhere" line 7)
+    invoked from within
+"do_push_anywhere"
+    invoked from within
+".vpane.lower.commarea.buttons.push invoke "
+    invoked from within
+".vpane.lower.commarea.buttons.push instate !disabled { .vpane.lower.commarea.buttons.push invoke } "
+    invoked from within
+".vpane.lower.commarea.buttons.push instate pressed { .vpane.lower.commarea.buttons.push state !pressed; .vpane.lower.commarea.buttons.push instate !di..."
+    (command bound to event)
